@@ -12,6 +12,18 @@ Norwegian Braille Specifications and Guidelines
 
 [Table of contents](2012 - Håndbok i litterær punktskrift.toc.md)
 
+[Matematikk med leselist](2010 - Matematikk med leselist.pdf)
+-------------------------------------------------------------
+
+ * _Title translated_: Math on a braille display
+ * _by_: [Huseby og Tambartun kompetansesentre](http://www.statped.no/Spraksider/In-English/)
+ * _published_: 2010
+ * _language_: Norwegian
+ * _isbn_: 978-82-7740-843-9
+ * _issn_: 1503-271X
+
+[Table of contents](2010 - Matematikk med leselist.toc.md)
+
 [Kortskrift i norsk punktskrift - KS04](2008 - Kortskrift i norsk punktskrift - KS04.doc)
 -----------------------------------------------------------------------------------------
 
@@ -24,13 +36,12 @@ Norwegian Braille Specifications and Guidelines
 [Table of contents](2008 - Kortskrift i norsk punktskrift - KS04.toc.md)
 
 [8-punktstabell](2007 - 8-punktstabell.docx)
-===========================================================================
+--------------------------------------------
 
  * _Title translated_: 8-dot braille table
  * _by_: [Offentlig utvalg for blindeskrift](http://www.punktskriftutvalget.no/)
  * _published_: 2007
  * _language_: Norwegian
- * _isbn_: none
 
 The document contains only a table mapping characters to 8-dot braille.
 There's no headlines.
