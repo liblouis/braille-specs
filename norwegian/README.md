@@ -23,6 +23,18 @@ Norwegian Braille Specifications and Guidelines
  
 [Table of contents](2008 - Kortskrift i norsk punktskrift - KS04.toc.md)
 
+[8-punktstabell](2007 - 8-punktstabell.docx)
+===========================================================================
+
+ * _Title translated_: 8-dot braille table
+ * _by_: [Offentlig utvalg for blindeskrift](http://www.punktskriftutvalget.no/)
+ * _published_: 2007
+ * _language_: Norwegian
+ * _isbn_: none
+
+The document contains only a table mapping characters to 8-dot braille.
+There's no headlines.
+
 [Norsk Punktskrift - del 4](1995 - Norsk Punktskrift - del 4.pdf)
 -----------------------------------------------------------------
 
