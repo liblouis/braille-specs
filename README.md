@@ -1,3 +1,5 @@
+This repo contains a collection of standards documents for Braille.
+
 # Contents
 
 ## [World Braille Usage (3rd edition)](world-braille-usage-third-edition.pdf)
@@ -8,32 +10,12 @@
 - _published_: Perkins, ICEB and NLS, Washington D.C., 2013, ISBN 978-0-8444-9564-4
 - _language_: English
 
-## [Braillestandaard voor algemeen gebruik in het Nederlandse taalgebied, van toepassing vanaf 1 september 2005](Eindtekst-zonder-voorblad-dec-2005.doc)
+## [Belgium](Belgium/README.md)
 
-- _by_: Federatie Slechtzienden- en Blindenbelang and
-  Belgische Confederatie voor Blinden en Slechtzienden (BCBS)
-- _applies to_: The Netherlands and Flanders (as of September 2005)
-- _published_: 2005
-- _language_: Dutch
+## [Croatia](Croatia/README.md)
 
-## [Pistekirjoituksen perusteet](pistek_perusteet.html)
+## [Finland](Finland/README.md)
 
-- _by_: Finnish Braille Authority and the Finnish Library for the Visually Impaired
-- _applies to_: Finland
-- _published_: 2000
-- _language_: Finnish
+## [Ireland](Ireland/README.md)
 
-## [Unified Irish Braille - intro](UIB-intro.docx)
-
-- _by_: [the Irish National Braille and Alternative Formats Association](http://www.inbaf.ie)
-- _applies to_: Ireland
-- _published_: 2014
-- _language_: English
-
-## [Unified Irish Braille - additional rules](UIB-additional-rules.doc)
-
-- _by_: [the Irish National Braille and Alternative Formats Association](http://www.inbaf.ie)
-- _applies to_: Ireland
-- _published_: 2014
-- _language_: English
-
+## [Norway](Norway/README.md)

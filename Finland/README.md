@@ -1,6 +1,6 @@
 # Finish Braille Specifications and Guidelines
 
-## [Pistekirjoituksen perusteet](Finland/pistek_perusteet.html)
+## [Pistekirjoituksen perusteet](pistek_perusteet.html)
 
 - _by_: Finnish Braille Authority and the Finnish Library for the Visually Impaired
 - _applies to_: Finland
