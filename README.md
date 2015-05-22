@@ -1,6 +1,6 @@
-This repo contains a collection of standards documents for Braille.
+# Braille specifications
 
-# Contents
+A collection of standards documents for Braille.
 
 ## [World Braille Usage (3rd edition)](world-braille-usage-third-edition.pdf)
 
