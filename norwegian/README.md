@@ -12,6 +12,17 @@ Norwegian Braille Specifications and Guidelines
 
 [Table of contents](2012 - Håndbok i litterær punktskrift.toc.md)
 
+[Punkttabell for JAWS](2011 - Punkttabell for JAWS.jbt)
+-------------------------------------------------
+
+ * _Title translated_: Braille table for JAWS
+ * _by_: [Offentlig utvalg for blindeskrift](http://www.punktskriftutvalget.no/)
+ * _published_: 2011
+ * _language_: Norwegian
+
+The document is a braille table file for use with the JAWS screen reader.
+It maps characters to 8-dot braille.
+
 [Matematikk med leselist](2010 - Matematikk med leselist.pdf)
 -------------------------------------------------------------
 
@@ -45,6 +56,8 @@ Norwegian Braille Specifications and Guidelines
 
 The document contains only a table mapping characters to 8-dot braille.
 There's no headlines.
+
+**NOTE: there's a newer table from 2011 available; see above.**
 
 [Norsk Punktskrift - del 4](1995 - Norsk Punktskrift - del 4.pdf)
 -----------------------------------------------------------------
