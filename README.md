@@ -16,7 +16,9 @@ A collection of standards documents for Braille.
 
 ## [Finnish](finnish/README.md)
 
-## [German](http://www.bskdl.org/braillesysteme.html)
+## German
+
+Refer to the official documents at the [website](http://www.bskdl.org/braillesysteme.html) of the *Brailleschriftkomitee der deutschsprachigen Länder*
 
 ## [Irish](irish/README.md)
 
