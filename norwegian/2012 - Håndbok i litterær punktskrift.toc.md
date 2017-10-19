@@ -1,4 +1,4 @@
-# [Håndbok i litterær punktskrift](https://github.com/liblouis/braille-specs/raw/master/norwegian/2012%20-%20H%C3%A5ndbok%20i%20litter%C3%A6r%20punktskrift.pdf)
+# [Håndbok i litterær punktskrift](2012%20-%20H%C3%A5ndbok%20i%20litter%C3%A6r%20punktskrift.pdf)
 
 _Title translated_: Handbook in literary braille
 

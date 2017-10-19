@@ -1,4 +1,4 @@
-# [Matematikk med leselist](https://github.com/liblouis/braille-specs/raw/master/norwegian/2010%20-%20Matematikk%20med%20leselist.pdf)
+# [Matematikk med leselist](2010%20-%20Matematikk%20med%20leselist.pdf)
 
 _Title translated_: Math on a braille display
 

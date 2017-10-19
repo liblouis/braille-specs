@@ -1,4 +1,4 @@
-# [Norsk Punktskrift - del 4](https://github.com/liblouis/braille-specs/raw/master/norwegian/1995%20-%20Norsk%20Punktskrift%20-%20del%204.pdf)
+# [Norsk Punktskrift - del 4](1995%20-%20Norsk%20Punktskrift%20-%20del%204.pdf)
 
 _Title translated_: Norwegian Braille - part 4
 

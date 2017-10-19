@@ -1,4 +1,4 @@
-# [Kortskrift i norsk punktskrift - KS04](https://github.com/liblouis/braille-specs/raw/master/norwegian/2008%20-%20Kortskrift%20i%20norsk%20punktskrift%20-%20KS04.doc)
+# [Kortskrift i norsk punktskrift - KS04](2008%20-%20Kortskrift%20i%20norsk%20punktskrift%20-%20KS04.doc)
 
 _Title translated_: Norwegian Contracted Braille - KS04
 
