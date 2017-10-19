@@ -1,192 +1,191 @@
-[Matematikk med leselist](2010 - Matematikk med leselist.pdf)
-===========================================================================
+# [Matematikk med leselist](https://github.com/liblouis/braille-specs/raw/master/norwegian/2010%20-%20Matematikk%20med%20leselist.pdf)
 
 _Title translated_: Math on a braille display
 
 Translated table of contents
 ----------------------------
 
-* Math on a braille display
-* Foreword
-* Contents
-* 1 Introduction
-* 2 Basics about use of braille in mathematics
-  * 2.1 The braille system
-  * 2.2 Visual and tactile reading
-  * 2.3 Tactile exploration of shapes
-  * 2.4 Basic rules for writing mathematics in braille
-  * 2.5 Braille display
-  * 2.6 Braille and teaching
-    * 2.6.1 Requirements for math teachers
-    * 2.6.2 Joint teaching
-* 3 Math notation in braille
-  * 3.1 Comparison between 6- and 8-dot braille in mathematics
-  * 3.2 Writing-rules in mathematics
-    * 3.2.1 Mathematical calculation signs
-    * 3.2.2 Thousands separators
-    * 3.2.3 Lines under answers
-    * 3.2.4 Roman numerals
-    * 3.2.5 Denominations
-    * 3.2.6 Mixed numbers
-    * 3.2.7 Small and large fractions
-      * Small fractions have simple numerator and denominator:
-      * Large fractions:
-    * 3.2.8 Grouping signs
-    * 3.2.9 Other signs
-    * 3.2.10 Functions and their derivatives
-    * 3.2.11 Indices
-    * 3.2.12 Lines over characters
-  * 3.3 Limiting the reach of math expression
-    * 3.3.1 Fractions, powers, root functions, logarithms and trigonometric functions
-    * 3.3.2 Indices
-    * 3.3.3 The use of punctuation in complex expressions
-      * Multiplication sign
-      * Spaces
-      * Parentheses
-      * Mathematical hyphen
-  * 3.4 Advanced math expressions
-    * 3.4.1 Inverse functions
-    * 3.4.2 Factors in front of functions
-    * 3.4.3 Coordinates and vectors
-    * 3.4.4 Integrals, summation, limits
-    * 3.4.5 Indices
-    * 3.4.6 Marking directly above and directly below
-* 4 Methodology for braille displays
-  * 4.1 The four arithmetic operations
-    * 4.1.1 Addition
-    * 4.1.2 Subtraction
-    * 4.1.3 Multiplication
-    * 4.1.4 Division
-      * Division with two digits in the divisor:
-  * 4.2 Algebra
-  * 4.3 Fractions
-    * 4.3.1 Extension and shortening
-    * 4.3.2 Factorization and common denominator
-  * 4.4 Equations and Inequalities
-    * 4.4.1 "Multiply multiply" and "divide divide"
-    * 4.4.2 Utilization of line length
-    * 4.4.3 Setting sample answer
-    * 4.4.4 Table Sheet
-  * 4.5 Economy
-  * 4.6 Statistics
-    * 4.6.1 Tally Marks and frequency table
-    * 4.6.2 BarChart
-    * 4.6.3 Histogram
-    * 4.6.4 Pie
-    * 4.6.5 Line chart
-    * 4.6.6 Preparation of charts in Excel
-    * 4.6.7 trediagram
-  * 4.7 Features
-    * 4.7.1 Value Tables
-    * 4.7.2 Graphic representation
-  * 4.8 Trigonometry and form as figurines
-* 5 Facilitation of figures
-  * 5.1 Signs Utilities
-    * 5.1.1 Signs Plastic and ordinary ballpoint pen
-    * 5.1.2 Point Paper and elevation wheels
-    * 5.1.3 Svelle Paper
-  * 5.2 Guidelines for preparation of figures
-* 6 Setting the computer equipment
-  * 6.1 Structure of the hard disk
-  * 6.2 Word
-    * 6.2.1 Change the default font and display
-    * 6.2.2 Stopping autokorrektur
-    * 6.2.3 Assigning speed to degrees sign and angle
-  * 6.3 Excel
-    * 6.3.1 Preventing move selection / Marker Enter
-    * 6.3.2 Removing the task pane at startup
-* 7 converter options
-  * 7.1 Excel used as calculator
-    * 7.1.1 How to work
-    * 7.1.2 Some features in Excel
-    * 7.1.3 Huseby package
-    * 7.1.4 Excel Models for analysis of functions and regression
-    * 7.1.5 Useful Tips on Using Excel as a calculator
-      * Retrieve previous calculation: F2
-      * Retrieve previous answers
-      * Switching program: Alt + Tab
-      * Copying calculate expression between Word and Excel
-  * 7.2 ExKalk
-  * 7.3 Calculator on your PC
-    * 7.3.1 Microsoft calculator
-      * How to work:
-      * Keystroke calculator:
-      * Copying calculate expression between Word and Microsoft Calculator
-  * 7.4 Calculator with synthetic speech
-* 8 Work with electronic text
-  * 8.1 Instruments in the electronic textbook
-    * 8.1.1 Font
-    * 8.1.2 Structure of the book
-    * 8.1.3 Contents
-    * 8.1.4 Search Tags
-      * `Xxx` in front of headlines
-      * `>>>` in front of puzzles
-      * `---` in front of page numbers
-    * 8.1.5 Emphasized text
-    * 8.1.6 Where should the student write?
-    * 8.1.7 Information to the student about visual effects in the printed textbook
-    * 8.1.8 Information to the student about using alternative methods
-    * 8.1.9 Description of calculator use
-    * 8.1.10 Tables
-    * 8.1.11 Figures
-    * 8.1.12 Excel objects
-  * 8.2 Work Technique
-    * 8.2.1 Using electronic textbooks
-    * 8.2.2 Answering assignments
-    * 8.2.3 Rectification
-    * 8.2.4 Search in the book
-    * 8.2.5 Bookmarks
-    * 8.2.6 The use of sound in electronic books
-  * 8.3 Effective use of braille displays
-    * 8.3.1 Reading continuous text
-    * 8.3.2 Locating information in the text
-  * 8.4 Facilitating the text
-    * 8.4.1 Font
-    * 8.4.2 Document appearance must be adapted to the braille displays linear projection
-      * First line
-      * Leverage braille display length
-      * Linear presentation
-      * Open lines
-    * 8.4.3 Search tags
-    * 8.4.4 Enumerating with symbols
-    * 8.4.5 Where should the student write?
-    * 8.4.6 Setting rules in mathematics
-    * 8.4.7 Auto-correct
-* 9 Organisation of tests and examinations
-  * 9.1 Key guidelines
-    * 9.1.1 Regulations to Education Act
-    * 9.1.2 Application to the rector
-    * 9.1.3 General on actions during tests / exams for blind students
-  * 9.2 Facilitation of centrally given written tests / exams
-    * 9.2.1 The contents of organizing the centrally set tests
-    * 9.2.2 Adjusting the competence goals
-    * 9.2.3 Old facilitated exams
-  * 9.3 Exemption for construction and drawing
-    * 9.3.1 Construction and related subjects
-    * 9.3.2 Drawing
-  * 9.4 Facilitation of locally set tests / exams
-  * 9.5 Actions during test / examination
-    * 9.5.1 Pre-inspection of centrally given sets of assignments
-    * 9.5.2 Use of qualified educator ("secretary") for technical assistance
-    * 9.5.3 Resource and info booklets and assistance in the preparation time
-    * 9.5.4 Extended time
-    * 9.5.5 Use of Excel models and own PC
-    * 9.5.6 Separate room
-  * 9.6 Registration for the centrally set tests / exams
-  * 9.7 Notification to the sensor
-  * 9.8 Oral exam
-* 10 List of characters
-  * 10.1 Mathematical signs
-  * 10.2 The Greek alphabet
-  * 10.3 Abbreviated numbers in 6-dot braille
-* 11 Examples of names
-  * 11.1.1 Exponents
-  * 11.1.2 Line over expressions
-  * 11.1.3 Indices
-  * 11.1.4 Fractions
-  * 11.1.5 The root function
-  * 11.1.6 Trigonometric functions and logarithmic functions
-  * 11.1.7 Limits
-  * 11.1.8 Summation
-  * 11.1.9 The binomial coefficient
-* Cover, wash note
+- Math on a braille display
+- Foreword
+- Contents
+- 1 Introduction
+- 2 Basics about use of braille in mathematics
+  - 2.1 The braille system
+  - 2.2 Visual and tactile reading
+  - 2.3 Tactile exploration of shapes
+  - 2.4 Basic rules for writing mathematics in braille
+  - 2.5 Braille display
+  - 2.6 Braille and teaching
+    - 2.6.1 Requirements for math teachers
+    - 2.6.2 Joint teaching
+- 3 Math notation in braille
+  - 3.1 Comparison between 6- and 8-dot braille in mathematics
+  - 3.2 Writing-rules in mathematics
+    - 3.2.1 Mathematical calculation signs
+    - 3.2.2 Thousands separators
+    - 3.2.3 Lines under answers
+    - 3.2.4 Roman numerals
+    - 3.2.5 Denominations
+    - 3.2.6 Mixed numbers
+    - 3.2.7 Small and large fractions
+      - Small fractions have simple numerator and denominator:
+      - Large fractions:
+    - 3.2.8 Grouping signs
+    - 3.2.9 Other signs
+    - 3.2.10 Functions and their derivatives
+    - 3.2.11 Indices
+    - 3.2.12 Lines over characters
+  - 3.3 Limiting the reach of math expression
+    - 3.3.1 Fractions, powers, root functions, logarithms and trigonometric functions
+    - 3.3.2 Indices
+    - 3.3.3 The use of punctuation in complex expressions
+      - Multiplication sign
+      - Spaces
+      - Parentheses
+      - Mathematical hyphen
+  - 3.4 Advanced math expressions
+    - 3.4.1 Inverse functions
+    - 3.4.2 Factors in front of functions
+    - 3.4.3 Coordinates and vectors
+    - 3.4.4 Integrals, summation, limits
+    - 3.4.5 Indices
+    - 3.4.6 Marking directly above and directly below
+- 4 Methodology for braille displays
+  - 4.1 The four arithmetic operations
+    - 4.1.1 Addition
+    - 4.1.2 Subtraction
+    - 4.1.3 Multiplication
+    - 4.1.4 Division
+      - Division with two digits in the divisor:
+  - 4.2 Algebra
+  - 4.3 Fractions
+    - 4.3.1 Extension and shortening
+    - 4.3.2 Factorization and common denominator
+  - 4.4 Equations and Inequalities
+    - 4.4.1 "Multiply multiply" and "divide divide"
+    - 4.4.2 Utilization of line length
+    - 4.4.3 Setting sample answer
+    - 4.4.4 Table Sheet
+  - 4.5 Economy
+  - 4.6 Statistics
+    - 4.6.1 Tally Marks and frequency table
+    - 4.6.2 BarChart
+    - 4.6.3 Histogram
+    - 4.6.4 Pie
+    - 4.6.5 Line chart
+    - 4.6.6 Preparation of charts in Excel
+    - 4.6.7 trediagram
+  - 4.7 Features
+    - 4.7.1 Value Tables
+    - 4.7.2 Graphic representation
+  - 4.8 Trigonometry and form as figurines
+- 5 Facilitation of figures
+  - 5.1 Signs Utilities
+    - 5.1.1 Signs Plastic and ordinary ballpoint pen
+    - 5.1.2 Point Paper and elevation wheels
+    - 5.1.3 Svelle Paper
+  - 5.2 Guidelines for preparation of figures
+- 6 Setting the computer equipment
+  - 6.1 Structure of the hard disk
+  - 6.2 Word
+    - 6.2.1 Change the default font and display
+    - 6.2.2 Stopping autokorrektur
+    - 6.2.3 Assigning speed to degrees sign and angle
+  - 6.3 Excel
+    - 6.3.1 Preventing move selection / Marker Enter
+    - 6.3.2 Removing the task pane at startup
+- 7 converter options
+  - 7.1 Excel used as calculator
+    - 7.1.1 How to work
+    - 7.1.2 Some features in Excel
+    - 7.1.3 Huseby package
+    - 7.1.4 Excel Models for analysis of functions and regression
+    - 7.1.5 Useful Tips on Using Excel as a calculator
+      - Retrieve previous calculation: F2
+      - Retrieve previous answers
+      - Switching program: Alt + Tab
+      - Copying calculate expression between Word and Excel
+  - 7.2 ExKalk
+  - 7.3 Calculator on your PC
+    - 7.3.1 Microsoft calculator
+      - How to work:
+      - Keystroke calculator:
+      - Copying calculate expression between Word and Microsoft Calculator
+  - 7.4 Calculator with synthetic speech
+- 8 Work with electronic text
+  - 8.1 Instruments in the electronic textbook
+    - 8.1.1 Font
+    - 8.1.2 Structure of the book
+    - 8.1.3 Contents
+    - 8.1.4 Search Tags
+      - `Xxx` in front of headlines
+      - `>>>` in front of puzzles
+      - `---` in front of page numbers
+    - 8.1.5 Emphasized text
+    - 8.1.6 Where should the student write?
+    - 8.1.7 Information to the student about visual effects in the printed textbook
+    - 8.1.8 Information to the student about using alternative methods
+    - 8.1.9 Description of calculator use
+    - 8.1.10 Tables
+    - 8.1.11 Figures
+    - 8.1.12 Excel objects
+  - 8.2 Work Technique
+    - 8.2.1 Using electronic textbooks
+    - 8.2.2 Answering assignments
+    - 8.2.3 Rectification
+    - 8.2.4 Search in the book
+    - 8.2.5 Bookmarks
+    - 8.2.6 The use of sound in electronic books
+  - 8.3 Effective use of braille displays
+    - 8.3.1 Reading continuous text
+    - 8.3.2 Locating information in the text
+  - 8.4 Facilitating the text
+    - 8.4.1 Font
+    - 8.4.2 Document appearance must be adapted to the braille displays linear projection
+      - First line
+      - Leverage braille display length
+      - Linear presentation
+      - Open lines
+    - 8.4.3 Search tags
+    - 8.4.4 Enumerating with symbols
+    - 8.4.5 Where should the student write?
+    - 8.4.6 Setting rules in mathematics
+    - 8.4.7 Auto-correct
+- 9 Organisation of tests and examinations
+  - 9.1 Key guidelines
+    - 9.1.1 Regulations to Education Act
+    - 9.1.2 Application to the rector
+    - 9.1.3 General on actions during tests / exams for blind students
+  - 9.2 Facilitation of centrally given written tests / exams
+    - 9.2.1 The contents of organizing the centrally set tests
+    - 9.2.2 Adjusting the competence goals
+    - 9.2.3 Old facilitated exams
+  - 9.3 Exemption for construction and drawing
+    - 9.3.1 Construction and related subjects
+    - 9.3.2 Drawing
+  - 9.4 Facilitation of locally set tests / exams
+  - 9.5 Actions during test / examination
+    - 9.5.1 Pre-inspection of centrally given sets of assignments
+    - 9.5.2 Use of qualified educator ("secretary") for technical assistance
+    - 9.5.3 Resource and info booklets and assistance in the preparation time
+    - 9.5.4 Extended time
+    - 9.5.5 Use of Excel models and own PC
+    - 9.5.6 Separate room
+  - 9.6 Registration for the centrally set tests / exams
+  - 9.7 Notification to the sensor
+  - 9.8 Oral exam
+- 10 List of characters
+  - 10.1 Mathematical signs
+  - 10.2 The Greek alphabet
+  - 10.3 Abbreviated numbers in 6-dot braille
+- 11 Examples of names
+  - 11.1.1 Exponents
+  - 11.1.2 Line over expressions
+  - 11.1.3 Indices
+  - 11.1.4 Fractions
+  - 11.1.5 The root function
+  - 11.1.6 Trigonometric functions and logarithmic functions
+  - 11.1.7 Limits
+  - 11.1.8 Summation
+  - 11.1.9 The binomial coefficient
+- Cover, wash note
