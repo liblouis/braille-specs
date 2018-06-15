@@ -16,7 +16,11 @@ A collection of standards documents for Braille.
 
 ## [Dutch](dutch/README.md)
 
+## [English](english/README.md)
+
 ## [Finnish](finnish/README.md)
+
+## [French](french/README.md)
 
 ## German
 
@@ -33,7 +37,3 @@ Please refer to the [official government document](https://www.e-tar.lt/portal/l
 ## Spanish
 
 See the [official documents](http://www.once.es/new/servicios-especializados-en-discapacidad-visual/braille/documentos-tecnicos-vigentes/documentos-tecnicos-relacionados-con-braille/documentos-tecnicos-relacionados-con-el-braille) at the [ONCE website](http://www.once.es)
-
-## [Unified English Braille](ueb/README.md)
-
-## [French](french/README.md)
