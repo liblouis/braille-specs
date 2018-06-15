@@ -1,7 +1,7 @@
 Norwegian Braille Specifications and Guidelines
 ===============================================
 
-[Håndbok i litterær punktskrift](2012 - Håndbok i litterær punktskrift.pdf)
+[Håndbok i litterær punktskrift](2012%20-%20Håndbok%20i%20litterær%20punktskrift.pdf)
 ---------------------------------------------------------------------------
 
  * _Title translated_: Handbook in literary braille
@@ -10,9 +10,9 @@ Norwegian Braille Specifications and Guidelines
  * _language_: Norwegian
  * _isbn_: 978-82-93046-04-2
 
-[Table of contents](2012 - Håndbok i litterær punktskrift.toc.md)
+[Table of contents](2012%20-%20Håndbok%20i%20litterær%20punktskrift.toc.md)
 
-[Punkttabell for JAWS](2011 - Punkttabell for JAWS.jbt)
+[Punkttabell for JAWS](2011%20-%20Punkttabell%20for%20JAWS.jbt)
 -------------------------------------------------
 
  * _Title translated_: Braille table for JAWS
@@ -23,7 +23,7 @@ Norwegian Braille Specifications and Guidelines
 The document is a braille table file for use with the JAWS screen reader.
 It maps characters to 8-dot braille.
 
-[Matematikk med leselist](2010 - Matematikk med leselist.pdf)
+[Matematikk med leselist](2010%20-%20Matematikk%20med%20leselist.pdf)
 -------------------------------------------------------------
 
  * _Title translated_: Math on a braille display
@@ -33,9 +33,9 @@ It maps characters to 8-dot braille.
  * _isbn_: 978-82-7740-843-9
  * _issn_: 1503-271X
 
-[Table of contents](2010 - Matematikk med leselist.toc.md)
+[Table of contents](2010%20-%20Matematikk%20med%20leselist.toc.md)
 
-[Kortskrift i norsk punktskrift - KS04](2008 - Kortskrift i norsk punktskrift - KS04.doc)
+[Kortskrift i norsk punktskrift - KS04](2008%20-%20Kortskrift%20i%20norsk%20punktskrift%20-%20KS04.doc)
 -----------------------------------------------------------------------------------------
 
  * _Title translated_: Norwegian Contracted Braille - KS04
@@ -44,9 +44,9 @@ It maps characters to 8-dot braille.
  * _language_: Norwegian
  * _isbn_: 978-82-97046-02-8
  
-[Table of contents](2008 - Kortskrift i norsk punktskrift - KS04.toc.md)
+[Table of contents](2008%20-%20Kortskrift%20i%20norsk%20punktskrift%20-%20KS04.toc.md)
 
-[8-punktstabell](2007 - 8-punktstabell.docx)
+[8-punktstabell](2007%20-%208-punktstabell.docx)
 --------------------------------------------
 
  * _Title translated_: 8-dot braille table
@@ -59,7 +59,7 @@ There's no headlines.
 
 **NOTE: there's a newer table from 2011 available; see above.**
 
-[Norsk Punktskrift - del 4](1995 - Norsk Punktskrift - del 4.pdf)
+[Norsk Punktskrift - del 4](1995%20-%20Norsk%20Punktskrift%20-%20del%204.pdf)
 -----------------------------------------------------------------
 
  * _Title translated_: Norwegian Braille - part 4
@@ -68,4 +68,4 @@ There's no headlines.
  * _language_: Norwegian
  * _isbn_: 82-7740-002-0
 
-[Table of contents](1995 - Norsk Punktskrift - del 4.toc.md)
+[Table of contents](1995%20-%20Norsk%20Punktskrift%20-%20del%204.toc.md)

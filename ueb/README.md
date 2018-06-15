@@ -1,6 +1,6 @@
 # Unified English Braille
 
-## [The Rules of Unified English Braille](Rules of Unified English Braille 2013.pdf)
+## [The Rules of Unified English Braille](Rules%20of%20Unified%20English%20Braille%202013.pdf)
 
 - _by_: Round Table on Information Access for People with Print Disabilities Inc.
   and International Council on English Braille (ICEB)
