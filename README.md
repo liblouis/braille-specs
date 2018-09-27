@@ -10,6 +10,12 @@ A collection of standards documents for Braille.
 - _published_: Perkins, ICEB and NLS, Washington D.C., 2013, ISBN 978-0-8444-9564-4
 - _language_: English
 
+## Arabic
+
+The _Unified Arabic Braille code_ was established in Saudi Arabia
+in 2002. It is documented in [a brf document](Arabic-grade1-and-2.brf)
+produced by the United Arab Emirates Association for the blind.
+
 ## [Croatian](croatian/README.md)
 
 ## [Danish](danish/README.md)
