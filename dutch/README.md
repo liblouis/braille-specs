@@ -6,6 +6,7 @@
   language area, applicable as of 19 April 2018
 - _by_: [Braille Autoriteit](http://braille-autoriteit.org/)
 - _applies to_: The Netherlands and Flanders (as of September 2005)
+- _version_: 2017.1
 - _published_: 2018
 - _language_: Dutch
 
@@ -18,5 +19,6 @@
 - _by_: Federatie Slechtzienden- en Blindenbelang and
   Belgische Confederatie voor Blinden en Slechtzienden (BCBS)
 - _applies to_: The Netherlands and Flanders (as of September 2005)
+- _version_: 2005
 - _published_: 2005
 - _language_: Dutch
