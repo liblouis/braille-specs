@@ -30,6 +30,8 @@ Refer to the official documents at the [website](http://www.bskdl.org/braillesys
 
 ## [Irish](irish/README.md)
 
+## [Latvian](latvian/README.md)
+
 ## Lithuanian
 
 Please refer to the [official government document](https://www.e-tar.lt/portal/lt/legalAct/TAR.443D667CA047).
