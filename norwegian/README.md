@@ -1,6 +1,14 @@
 Norwegian Braille Specifications and Guidelines
 ===============================================
 
+[To eller flere ord med store bokstaver](2018%20-%20To%20eller%20flere%20ord%20med%20store%20bokstaver.pdf)
+---------------------------------------------------------------------------
+
+ * _Title translated_: Two or more words with capitalized letters
+ * _by_: [Offentlig utvalg for punktskrift](http://www.punktskriftutvalget.no/)
+ * _published_: Oslo, 2018
+ * _language_: Norwegian
+
 [Håndbok i litterær punktskrift](2012%20-%20Håndbok%20i%20litterær%20punktskrift.pdf)
 ---------------------------------------------------------------------------
 
