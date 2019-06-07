@@ -10,6 +10,15 @@
 - _published_: 2018
 - _language_: Dutch
 
+
+## [Handleiding Braillesymbolen Wiskunde](Handleiding%20braillesymbolen%20wiskunde.pdf) (beter bekend als de "Woluwecode" of de "Notaertcode")
+
+- _title translated_: Manual for mathematical braille symbols
+- _by_: Gilbert Notaert (G.On Woluwe), Marc Suij (G.On Woluwe) en Emmanuel Vandekerkhove (Licht en Liefde)
+- _applies to_: Flanders
+- _published_: 1975
+- _language_: Dutch
+
 ## Previous Standards
 
 ### [Braillestandaard voor algemeen gebruik in het Nederlandse taalgebied, versie 2005](Eindtekst-zonder-voorblad-dec-2005.doc)
