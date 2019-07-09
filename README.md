@@ -38,6 +38,8 @@ Please refer to the [official government document](https://www.e-tar.lt/portal/l
 
 ## [Norwegian](norwegian/README.md)
 
+## [Polish](polish/README.md)
+
 ## [Slovenian](slovenian/README.md)
 
 ## Spanish
