@@ -20,6 +20,8 @@ Norwegian Braille Specifications and Guidelines
 
 [Table of contents](2012%20-%20Håndbok%20i%20litterær%20punktskrift.toc.md)
 
+[HTML version](http://www.punktskriftutvalget.no/standarder/handbok-innhold/)
+
 [Punkttabell for JAWS](2011%20-%20Punkttabell%20for%20JAWS.jbt)
 -------------------------------------------------
 
