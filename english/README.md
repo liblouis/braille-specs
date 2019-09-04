@@ -25,3 +25,12 @@
 [Update 2010](bana/CBC-update2010.pdf) ([BRF version](http://www.brailleauthority.org/update-cbc10/CBC-update2010.brf))
 
 [Source](http://www.brailleauthority.org/cbc/cbc.html)
+
+### [Nemeth Code for Mathematics & Science Notation, 1972 Revision](http://brailleauthority.org/mathscience/nemeth1972.pdf)
+
+- _published_: American Printing House for the Blind, Louisville, Kentucky, 1987
+- _language_: English
+
+[BRF version](http://brailleauthority.org/mathscience/nemeth1972.zip)
+
+[Source](http://brailleauthority.org/mathscience/math-science.html)
