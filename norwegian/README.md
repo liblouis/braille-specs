@@ -1,6 +1,16 @@
 Norwegian Braille Specifications and Guidelines
 ===============================================
 
+## [Punkttabell for JAWS](2019%20-%20Punkttabell%20for%20JAWS.jbt)
+
+ * _Title translated_: Braille table for JAWS
+ * _by_: [Offentlig utvalg for blindeskrift](http://www.punktskriftutvalget.no/)
+ * _published_: 2019
+ * _language_: Norwegian
+
+The document is a braille table file for use with the JAWS screen reader.
+It maps characters to 8-dot braille.
+
 ## [To eller flere ord med store bokstaver](2018%20-%20To%20eller%20flere%20ord%20med%20store%20bokstaver.pdf)
 
  * _Title translated_: Two or more words with capitalized letters
