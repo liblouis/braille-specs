@@ -28,6 +28,8 @@ A collection of standards documents for Braille.
 
 Refer to the official documents at the [website](http://www.bskdl.org/braillesysteme.html) of the *Brailleschriftkomitee der deutschsprachigen Länder*
 
+## [Hebrew](hebrew/README.md)
+
 ## [Irish](irish/README.md)
 
 ## [Latvian](latvian/README.md)
