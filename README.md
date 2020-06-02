@@ -42,6 +42,8 @@ Please refer to the [official government document](https://www.e-tar.lt/portal/l
 
 ## [Polish](polish/README.md)
 
+## [Russian](russian/README.md)
+
 ## [Slovenian](slovenian/README.md)
 
 ## Spanish
