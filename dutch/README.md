@@ -55,3 +55,7 @@ The most up to date versions of these standards can be found at https://braille-
 - _language_: Dutch
 
 [.doc version](Eindtekst-zonder-voorblad-dec-2005.doc)
+
+## Other Materials
+
+Various other documentation, such as historical documents, documents about Dutch contracted braille (which is not taught anymore), and documents about math braille, can be found at https://braille-autoriteit.org/wijzigingsverzoeken/historisch-materiaal.
