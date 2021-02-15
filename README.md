@@ -32,6 +32,8 @@ Refer to the official documents at the [website](http://www.bskdl.org/braillesys
 
 ## [Irish](irish/README.md)
 
+## [Khmer](khmer/README.md)
+
 ## [Latvian](latvian/README.md)
 
 ## Lithuanian
