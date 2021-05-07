@@ -12,7 +12,7 @@
     * 1.3.3. Headlines
     * 1.3.4. Beginning of the braille book
     * 1.3.5. Shifts text fragments to the right
-    * 1.3.6. Content of the Braille book
+    * 1.3.6. Table of contents of the braille book
     * 1.3.7. Making notes
     * 1.3.8. Non-hierarchical text elements
     * 1.3.9. Texts requiring additional braille layout
@@ -25,13 +25,13 @@
     * 2.1.4. Definitions for additional letters in the French and German alphabets
   * 2.2. Digits
   * 2.3. Punctuation
-  * 2.4. Braille special characters
-  * 2.4.1. Signs of alphabets
-  * 2.4.2. Emphasis
-  * 2.4.3. Mathematical Special Characters
-  * 2.4.4. Other special characters
+  * 2.4. Special braille characters
+    * 2.4.1. Signs of alphabets
+    * 2.4.2. Emphasis
+    * 2.4.3. Mathematical Special Characters
+    * 2.4.4. Other special characters
   * 2.5. Math symbols
-    * 2.5.1. Definitions of action symbols, equalities and inequalities
+    * 2.5.1. Definitions of arithmetic symbols, equalities and inequalities
     * 2.5.2. Fractions
     * 2.5.3. Parentheses
     * 2.5.4. Degrees and roots
