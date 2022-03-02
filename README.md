@@ -32,6 +32,8 @@ Refer to the official documents at the [website](http://www.bskdl.org/braillesys
 
 ## [Hebrew](hebrew/README.md)
 
+## [Hungarian](hungarian/README.md)
+
 ## [Indian Languages](indian-languages/README.md)
 
 ## [Irish](irish/README.md)
