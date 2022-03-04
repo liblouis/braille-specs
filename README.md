@@ -46,6 +46,8 @@ Please refer to the [official government document](https://www.e-tar.lt/portal/l
 
 ## [Russian](russian/README.md)
 
+## [Slovak](slovak/README.md)
+
 ## [Slovenian](slovenian/README.md)
 
 ## [South-African languages](south-african-languages/README.md)
