@@ -25,26 +25,6 @@ The Hungarian braille tables affected with this standard is following:
 
 In 2017, the larger variant was implemented.
 
-Official table maintainer from Liblouis community in Hungary: Attila
-Hammer from [IT Foundation for the Visually Impaired -
-Hungary](http://www.infoalap.hu). Attila is subscribed in Liblouis
-list. If anybody have question the Hungarian braille tables related,
-feel free ask a question in developer community.
-
-Before modifying the tables please ask the table maintainer. If you
-would like to do bigger changes in the Hungarian braille tables,
-please do not commit the changes to the [Liblouis
-repository](https://github.com/liblouis/liblouis) until all test cases
-are passing, because Hungarian language is a very complex language.
-
-If a maintenance change related have a question, please write e-mail
-to the table maintainer with following addresses:
-
-* Full official work time used e-mail address, with available the
-  Hungarian braille tables: hammer.attila at infoalap dot hu
-* Private e-mail address, with Attila subscribed into Liblouis mailing
-  list: hammera at pickup dot hu
-
 ## Hungarian language awailable downloadable documents
 
 The Hungarian Braille Committee official sub page is following:
@@ -53,12 +33,16 @@ The Hungarian Braille Committee official sub page is following:
 
 Following two documents are standard braille embossers USA braille
 character set compatible, windows CRLF line terminator wrapped
-documents, with containing the Hungarian braille alphabet. Without
-changes, this documents are free usable:
+documents, with containing the Hungarian braille alphabet. Without changes, this documents are free usable.
+Publisher: MVGYOSZ
+Documents created by: Braille Committee of the Hungarian National Association of the Blind and Visually Impaired
+Release date: 2018
+ISBN number: 978-615-5919-01-5
 
-* [Braille Alphabet Book (first part, USA BRF document, formatted with Windows line wrap)](https://www.mvgyosz.hu/wp-content/uploads/2020/04/braille-%C3%A1b%C3%A9c%C3%A9sk%C3%B6nyv01.brf)
-* [Braille Alphabet Book (second part, USA BRF document, formatted with Windows line wrap)](https://www.mvgyosz.hu/wp-content/uploads/2020/04/braille-%C3%A1b%C3%A9c%C3%A9sk%C3%B6nyv02.brf)
-* [Hungarian language used braille dots (an EXCEL table, with containing in 12 worksheet the various braille rules)](https://www.mvgyosz.hu/wp-content/uploads/2020/04/magyar-braille-%C3%ADr%C3%A1s-jelei.xls)
+* [Braille Alphabet Book (first part, USA BRF document, formatted with Windows line wrap)](braille-ábécéskönyv01.brf)
+* [Braille Alphabet Book (second part, USA BRF document, formatted with Windows line wrap)](braille-ábécéskönyv02.brf)
+* [Hungarian language used braille dots (an EXCEL table, with containing in 12 worksheet the various braille rules)](magyar-braille-írás-jelei.xls)
+* [Hungarian Grade 2 rules documentation book](hungarian_large_grade2_rules.doc)
 * [Summary collection of decisions concerning Braille adopted by the presidency of the Hungarian National Association of the Blind and Visually Impaired](https://www.mvgyosz.hu/wp-content/uploads/2020/04/braille-%C3%ADr%C3%A1s-eln%C3%B6ks%C3%A9gi-hat%C3%A1rozatok.docx)
 * [The medicine boxes braille standards collection documents (dot sizes, line length, etc.)](https://www.mvgyosz.hu/wp-content/uploads/2020/04/braille-gy%C3%B3gyszercsomagol%C3%A1sokon.doc)
 
