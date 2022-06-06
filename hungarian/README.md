@@ -43,25 +43,10 @@ ISBN number: 978-615-5919-01-5
 * [Braille Alphabet Book (second part, USA BRF document, formatted with Windows line wrap)](braille-ábécéskönyv02.brf)
 * [Hungarian language used braille dots (an EXCEL table, with containing in 12 worksheet the various braille rules)](magyar-braille-írás-jelei.xls)
 * [Hungarian Grade 2 rules documentation book](hungarian_large_grade2_rules.doc)
-* [Summary collection of decisions concerning Braille adopted by the presidency of the Hungarian National Association of the Blind and Visually Impaired](https://www.mvgyosz.hu/wp-content/uploads/2020/04/braille-%C3%ADr%C3%A1s-eln%C3%B6ks%C3%A9gi-hat%C3%A1rozatok.docx)
-* [The medicine boxes braille standards collection documents (dot sizes, line length, etc.)](https://www.mvgyosz.hu/wp-content/uploads/2020/04/braille-gy%C3%B3gyszercsomagol%C3%A1sokon.doc)
+* [Summary collection of decisions concerning Braille adopted by the presidency of the Hungarian National Association of the Blind and Visually Impaired (latest modification date: 2019-03-14)](braille_iras_elnoksegi_hatarozatok.docx)
+* [Summary collection of decisions concerning Braille adopted by the presidency of the Hungarian National Association of the Blind and Visually Impaired (online version)](https://www.mvgyosz.hu/wp-content/uploads/2020/04/braille-%C3%ADr%C3%A1s-eln%C3%B6ks%C3%A9gi-hat%C3%A1rozatok.docx)
 
-## Marburg Medium standard in Hungary
-
-The Marburg Medium standard specifies the following parameters for the size of Braille dots and their spacing:
-
-* Diameter of a point: 1.6 mm
-* The distance between the centers of two points inside a letter
-  (horizontally): 2.5 mm
-* Distance between the centers of two points within a letter
-  (vertically): 2.5 mm
-* The distance between the same point of two letters within a word: 6
-  mm
-* Distance between the same point of two letters if there is a space
-  between the two letters: 12 mm
-* Line spacing (between the same point of two letters): 10 mm
-
-## [the Hungarian braille dots table available information](https://www.mvgyosz.hu/wp-content/uploads/2020/04/magyar-braille-%C3%ADr%C3%A1s-jelei.xls)
+## [The Hungarian braille dots table available information](magyar-braille-írás-jelei.xls)
 
 The linked table 12 worksheet describes the Hungarian language used
 braille rules, but not all rule types need implementing (yet).
