@@ -12,13 +12,13 @@ The most up to date versions of these standards can be found at https://braille-
 - _published_: 2020-04-24
 - _language_: Dutch
 
-## [Achtpunts braillestandaard voor het Nederlandse taalgebied, versie 2020](https://braille-autoriteit.org/standaarden/achtpuntsbraille/versie-2020/)
+## [Achtpunts braillestandaard voor het Nederlandse taalgebied, versie 2022](https://braille-autoriteit.org/standaarden/achtpuntsbraille/versie-2022/)
 
-- _title translated_: 8-dot braille standard for the Dutch language area, version 2020
+- _title translated_: 8-dot braille standard for the Dutch language area, version 2022
 - _by_: [Braille Autoriteit](http://braille-autoriteit.org/)
-- _applies to_: The Netherlands and Flanders (as of December 31th, 2020)
-- _version_: 2020
-- _published_: 2020-10-28
+- _applies to_: The Netherlands and Flanders (as of April 1st, 2023)
+- _version_: 2022
+- _published_: 2023-02-08
 - _language_: Dutch
 
 ## [Handleiding Braillesymbolen Wiskunde](Handleiding%20braillesymbolen%20wiskunde.pdf) (beter bekend als de "Woluwecode" of de "Notaertcode")
@@ -55,6 +55,17 @@ The most up to date versions of these standards can be found at https://braille-
 - _language_: Dutch
 
 [.doc version](Eindtekst-zonder-voorblad-dec-2005.doc)
+
+## [Achtpunts braillestandaard voor het Nederlandse taalgebied
+
+### [versie 2020](https://braille-autoriteit.org/standaarden/achtpuntsbraille/versie-2020/)
+
+- _title translated_: 8-dot braille standard for the Dutch language area, version 2020
+- _by_: [Braille Autoriteit](http://braille-autoriteit.org/)
+- _applies to_: The Netherlands and Flanders (as of December 31th, 2020)
+- _version_: 2020
+- _published_: 2020-10-28
+- _language_: Dutch
 
 ## Other Materials
 
