@@ -6,25 +6,6 @@ latest modification date is 2019. This sub page always contains the
 latest official accepted Hungarian braille standards for the liblouis
 braille developer community.
 
-The Hungarian braille tables affected with this standard is following:
-
-* `tables/hu-hu-comp8.ctb`: the officially accepted 8-dots computer
-  braille table. In Hungary we use only eight dot mode with computer
-  braille format, the other variant is six dot type (the full braille
-  and the grade 2 tables). This is the official standard mode.
-
-* `tables/hu-hu-g1.ctb`: the officially accepted grade 1 braille (six
-  dot mode), this is the full braille mode table.
-
-* `tables/hu-hu-g2.ctb`: this table contains the Hungarian grade 2
-  braille rules, which is used in literary books, braille news papers,
-  etc. Hungarian grade 2 braille has two variations, small, fever
-  abbreviations containing rule set (this variation containing only 45
-  abbreviation rules), and a larger variant, which is used for
-  literary books and braille printing documents.
-
-In 2017, the larger variant was implemented.
-
 ## Hungarian language awailable downloadable documents
 
 The Hungarian Braille Committee official sub page is following:
@@ -39,12 +20,15 @@ Documents created by: Braille Committee of the Hungarian National Association of
 Release date: 2018
 ISBN number: 978-615-5919-01-5
 
-* [Braille Alphabet Book (first part, USA BRF document, formatted with Windows line wrap)](braille-ábécéskönyv01.brf)
-* [Braille Alphabet Book (second part, USA BRF document, formatted with Windows line wrap)](braille-ábécéskönyv02.brf)
-* [Hungarian language used braille dots (an EXCEL table, with containing in 12 worksheet the various braille rules)](magyar-braille-írás-jelei.xls)
-* [Hungarian Grade 2 rules documentation book](hungarian_large_grade2_rules.doc)
-* [Summary collection of decisions concerning Braille adopted by the presidency of the Hungarian National Association of the Blind and Visually Impaired (latest modification date: 2019-03-14)](braille_iras_elnoksegi_hatarozatok.docx)
-* [Summary collection of decisions concerning Braille adopted by the presidency of the Hungarian National Association of the Blind and Visually Impaired (online version)](https://www.mvgyosz.hu/wp-content/uploads/2020/04/braille-%C3%ADr%C3%A1s-eln%C3%B6ks%C3%A9gi-hat%C3%A1rozatok.docx)
+* [Braille ábécés könyv (első rész, USA BRF formátumú dokumentum, Windows sortöréssel formázva)](braille-ábécéskönyv01.brf)
+* [Braille ábécés könyv (második rész, USA BRF dokumentum, Windowsos sortöréssel formázva)](braille-ábécéskönyv02.brf)
+* [Magyar Braille írásjelek táblázata](magyar-braille-írás-jelei.xls)
+This document contains Hungarian language used braille dots an EXCEL table, with containing in 12 worksheet the various braille rules.
+* [Magyar nagy rövid írás szabálykönyv](hungarian_large_grade2_rules.doc)
+This document contains hungarian Grade 2 rules documentation book document.
+* [Braille-írás elnökségi határozatai](braille_iras_elnoksegi_hatarozatok.docx)
+This document contains a summary collection of decisions concerning Braille adopted by the presidency of the Hungarian National Association of the Blind and Visually Impaired (latest modification date: 2019-03-14)
+* [Braille-írás elnökségi határozatai (online verzió)](https://www.mvgyosz.hu/wp-content/uploads/2020/04/braille-%C3%ADr%C3%A1s-eln%C3%B6ks%C3%A9gi-hat%C3%A1rozatok.docx)
 
 ## [The Hungarian braille dots table available information](magyar-braille-írás-jelei.xls)
 
