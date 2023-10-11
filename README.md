@@ -20,6 +20,8 @@ A collection of standards documents for Braille.
 
 ## [English](english/README.md)
 
+## [Filipino](filipino/README.md)
+
 ## [Finnish](finnish/README.md)
 
 ## [French](french/README.md)
