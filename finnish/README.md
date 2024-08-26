@@ -6,7 +6,7 @@
 - _by_: Finnish delegation for braille and Accessibility Library Celia
 - _applies to_: Finland
 - _published_: 2021
-- _language_: Finnish
+- _language_: Finnish, Swedish (Finland)
 
 ## [Matematiikan, fysiikan ja kemian pistemerkinnät (PDF)](Matematiikan_fysiikan_ja_kemian_pistemerkinnät.pdf)
 
@@ -14,7 +14,7 @@
 - _by_: Finnish delegation for braille and Accessibility Library Celia
 - _applies to_: Finland
 - _published_: 2022
-- _language_: Finnish
+- _language_: Finnish, Swedish (Finland)
 
 ## [Matematiikan, fysiikan ja kemian merkinnät elektronisissa oppikirjoissa (PDF)](Matematiikan_fysiikan_kemian_merkinnät_elektronisissa_oppikirjoissa.pdf)
 
@@ -23,4 +23,4 @@
 - _applies to_: Finland
 - _published_: 2011
 - _updated_: 2014
-- _language_: Finnish
+- _language_: Finnish, Swedish (Finland)
