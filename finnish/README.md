@@ -18,7 +18,7 @@
 
 ## [Matematiikan, fysiikan ja kemian pistemerkinnät (PDF)](Matematiikan_fysiikan_ja_kemian_pistemerkinnät.pdf)
 
-- _description_: 6-dot braille for math, physics and chemistry texts in electronic books (based in ASCIIMath)
+- _description_: 6-dot braille for math, physics and chemistry texts in electronic books (based on ASCIIMath)
 - _by_: Finnish delegation for braille and Accessibility Library Celia
 - _applies to_: Finland
 - _published_: 2011
