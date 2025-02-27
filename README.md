@@ -12,6 +12,8 @@ A collection of standards documents for Braille.
 
 ## [Arabic](arabic/README.md)
 
+## [Coptic](coptic/README.md)
+
 ## [Croatian](croatian/README.md)
 
 ## [Danish](danish/README.md)
