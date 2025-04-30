@@ -46,7 +46,12 @@ Refer to the official documents at the [website](http://www.bskdl.org/braillesys
 
 ## Lithuanian
 
-Please refer to the [official government document](https://www.e-tar.lt/portal/lt/legalAct/TAR.443D667CA047).
+Please refer to the official standard: [LST ISO 17049:2017/NA:2019 lt](https://eshop.lsd.lt/public#!/product/info/0a640330-6d6f-1f57-816d-82c823af01d0); _Accessible design - Application of braille on signage, equipment and appliances (ISO 17049:2013, identical)_.
+- _by_: Lithuanian Standards Board
+- _published_: Lithuanian Standards Board, 2019
+- _language_: Lithuanian
+
+Note that, despite the title, this is **not** the ISO standard itself, which has been adopted without changes in 2017, but its national annex (hence the "/NA:2019" suffix).
 
 ## [Norwegian](norwegian/README.md)
 
