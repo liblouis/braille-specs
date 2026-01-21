@@ -34,6 +34,8 @@ A collection of standards documents for Braille.
 
 Refer to the official documents at the [website](http://www.bskdl.org/braillesysteme.html) of the *Brailleschriftkomitee der deutschsprachigen Länder*
 
+## [Georgian](georgian/README.md)
+
 ## [Hebrew](hebrew/README.md)
 
 ## [Hungarian](hungarian/README.md)
